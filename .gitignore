@@ -1,7 +1,6 @@
-controllers
-node_modules
-routers
-dtos
+controllers/
+dtos/
+node_modules/
 .env
 data.ts
-tsconfig.json
+server.ts
