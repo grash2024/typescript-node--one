@@ -1,6 +1,7 @@
 controllers/
 dtos/
 node_modules/
+routers/
 .env
 data.ts
 server.ts
