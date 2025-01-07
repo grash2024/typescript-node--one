@@ -5,3 +5,5 @@ routers/
 .env
 data.ts
 server.ts
+tsconfig.json
+
